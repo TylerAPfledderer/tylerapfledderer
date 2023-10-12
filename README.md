@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tyler</h1>
 <h3 align="center">A passionate frontend developer from North Carolina, USA.</h3>
 <p>I am a junior developer that is very curious about UI/UX Design, Typography, Why things break, and why writing HTML for emails is so dang difficult!</p>
-<p>I am a collaborator at <a href="https://github.com/chakra-ui">Chakra UI</a>, an open-source UI Component library for React. This means I work with a team of maintainers to support future development of the package, along with my continued contributions to the project in updating the source code. My primary focus is the adding, editing, and troubleshooting the documentation website.</p>
+<p>I am a collaborator at <a href="https://github.com/chakra-ui">Chakra UI</a>, an open-source UI Component library for React. This means I work with a team of maintainers to support future development of the package, along with my continued contributions to the project in updating the source code.</p>
 <p>I am also a power contributor for the <a href="https://github.com/ethereum/ethereum-org-website">Ethereum.org project</a>, helping to maintain the UI with Chakra and further development with their design system. I have been awarded an impact gift from one of the core team members as well as a grant from the Ethereum Foundation in recognition of my continuous efforts to the site.</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tylerapfledderer&row=1&column=4&title=Joined2020,Commits,PullRequest,Repositories,Issues&theme=alduin&margin-w=15&no-frame=true" alt="tylerapfledderer" /></a> </p>
