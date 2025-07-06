@@ -8,7 +8,7 @@
 
 - 👨‍💻 Projects I am showcasing are at [https://tylerpweb.dev](https://tylerpweb.dev)
 
-- 💬 Ask me about: **react, vue, gatsby, nuxt, open source contributing and documentation**
+- 💬 Ask me about: **React, Vue3, Next, Nuxt, open source contributing and documentation**
 
 - 📫 How to reach me: **tyler.pfledderer@gmail.com**
 
